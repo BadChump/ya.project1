@@ -1,0 +1,18 @@
+.page {
+	/* display: flex; */
+	/* justify-content: center; */
+	/* background-position: center; */
+	font-family: "Inter", "Arial", sans-serif;
+	min-width: 1100px;
+	max-width: 1600px;
+	margin: auto;
+	padding: 0;
+	border: 1px solid red;
+}
+
+
+/* .flex-row {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+} */
