@@ -7,7 +7,7 @@
   background-repeat: no-repeat;
   position: absolute;
   top: 0;
-  right: -8.75em;
+  right: -210px;
   z-index: 0;
   animation: rotation linear 20s infinite;
 }
