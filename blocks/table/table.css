@@ -6,9 +6,7 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	align-items: baseline;
-	border: 1px solid red;
 	align-content: space-between;
 	list-style-type: none;
 	padding-left: 0;
-	
 }
